@@ -6,6 +6,12 @@ Things You'll Need
 - pip install keyboard
 - pip install pyautogui
 - pip install opencv-python
+- INSTALL
+- Bluestacks 5
+- create an instance
+- on that instance download humanBean app
+- label the instance FREECOFFEE
+
 
 
 
