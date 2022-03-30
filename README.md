@@ -1,7 +1,7 @@
 # ThatsAnAwfullyHotCoffeePot
 https://www.youtube.com/watch?v=Vp0qi80AvZM&amp;t=14s
 
->>creates qr code for coffee
+>>creates qr code for coffee<<
 
 Things You'll Need
 - pip install pywin32
