@@ -78,8 +78,8 @@ with open('lastNameListFile.json', "r") as g:
 fullName = firstName + " " + lastName
 print("Full Name: ", fullName)
 #create password
-passwordLength = 20;
-password = ''.join(random.choices(string.ascii_lowercase + string.digits, k = passwordLength));
+passwordLength = 20
+password = ''.join(random.choices(string.ascii_lowercase + string.digits, k = passwordLength))
 print("Password: ", password)
 print("===================================================")
 print("First Rand", getRandomFirstName)
@@ -87,7 +87,7 @@ print("Last Rand", getRandomLastName)
 
 
   
-#just click shit
+#just click stuff
 pyautogui.click('taskBarMultiInstanceCHECK.PNG')
 time.sleep(1)
 pyautogui.click('instanceImageCheck.PNG')
@@ -96,7 +96,7 @@ pyautogui.click('cloneInstanceCheck.PNG')
 time.sleep(1)
 pyautogui.click('createImageCompare.PNG')
 time.sleep(1)
-pyautogui.click('DONT FUCK UP MY BUTTON.PNG')
+pyautogui.click('dontMessMyButtonPls.PNG')
 time.sleep(1)    
 pyautogui.click('newInstanceCompare.PNG')
 time.sleep(20)   
